@@ -36,7 +36,7 @@ export class MyComponent {
         }
       },
       // fake delay
-      800,
+      1500,
     );
   };
 
